@@ -11,7 +11,11 @@ Account Service fetches the data from DB & Ribbon-Client Service makes use of Ne
 
 Ribbon-Client Service distributes the load among the available instances of Account-Service.
 
-![github](https://user-images.githubusercontent.com/69712875/107475074-8e823b80-6b99-11eb-85ca-d977d09b1522.mp4)
+https://gifs.com/embed/netflix-ribbon-load-balancing-nxLDOR
+
+
+
+
 
 
 
